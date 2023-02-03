@@ -32,8 +32,10 @@ a QAZ like mini 1800s
 
 ![center slot](https://github.com/freya-irl/quay1800/blob/835fec90463a4e0f57d4270a8c6c678d220d66ac/dddbc7fe-9345-49cd-b294-e5af04534108.PNG)
 
+- unified C4 USB daughterboard
+
+![USB port](https://github.com/freya-irl/quay1800/blob/722e36b28ee8d1db35b4b61976aff704ffe65892/762ecd6c-1dd1-4679-94e6-4339c33a56db.PNG)
+
 - replacable M.2 slotted MCU ([sparkfun micromod series](https://www.sparkfun.com/products/17720))
 
 - LED daughterboard for the shinethrough in the badge on the back
-
-- unified C4 USB daughterboard
