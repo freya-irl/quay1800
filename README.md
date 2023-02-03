@@ -1,5 +1,8 @@
 # QUAY 1800
 
+![quay](https://github.com/freya-irl/quay1800/blob/16da8527652de8c79bebfba65011dd178a972212/1b306ca7-de77-4c83-9e69-5dd9dea535f6.PNG)
+
+
 a QAZ like mini 1800s
 
 ### featuring:
@@ -11,7 +14,7 @@ a QAZ like mini 1800s
 
 ![metal top plate](https://github.com/freya-irl/quay1800/blob/0d93875b140beace2264aeb71125ee6c25179bf1/QAY_1800_2023-Jan-18_09-07-01PM-000_CustomizedView1693861942.png)
 
-- metal badge
+- metal badge with LED diffusor
 
 ![metal badge](https://github.com/freya-irl/quay1800/blob/0d93875b140beace2264aeb71125ee6c25179bf1/c9068274-e367-46bf-a145-584f2e1a428a.PNG)
 
