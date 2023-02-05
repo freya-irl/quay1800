@@ -3,7 +3,7 @@
 ![quay](https://github.com/freya-irl/quay1800/blob/main/pictures/front%20bright.png)
 
 
-a QAZ like mini 1800s
+a QAZ like mini 1800s with leafspring mount and M.2 socketed controller
 
 ### featuring:
 - leafspring gasket mount
